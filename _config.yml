@@ -1,0 +1,14 @@
+layout_spectrum: 0.1059443
+typography_spectrum: 0.2911841
+color:
+  saturation: 0.7441554
+  lightness: 0.2896119
+  brandStrength: 0.5833065
+  rhythmicContrast: 0.5228654
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: MikePaschal
