@@ -1,29 +1,41 @@
-name: Mike Paschal
-favicon: null
-layout_spectrum: 0.1059443
-typography_spectrum: 0.44503
 title: Mike Paschal
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.7441554
+  brandStrength: 0.5833065
+  rhythmicContrast: 0.5228654
   brandColors:
     - '#E0FBFC'
     - '#C2DFE3'
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.5833065
   lightness: 0.2896119
-  saturation: 0.7441554
-  rhythmicContrast: 0.5228654
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Mike Paschal
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.1272401
+layout_spectrum: 0.1059443
